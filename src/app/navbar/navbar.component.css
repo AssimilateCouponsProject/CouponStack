@@ -1,0 +1,62 @@
+/* 
+.dropmenu{
+height: 100%;
+width: 100%;
+}
+.container{
+max-width: 1409px;
+margin-top: 0px;
+margin-left: 0px
+
+}
+
+.dropmenu ul{
+padding:0px;
+margin:5px;
+
+}
+
+.dropmenu ul li{
+float:left;
+background-color: rgb(6, 22, 36);
+width: 143px;
+height: 30px;
+font-size: 15px;
+text-align: center;
+list-style: none;
+opacity:0.6;
+padding: 0%;
+
+}
+.dropmenu ul li ul{
+display: none;
+}
+.dropmenu ul li:hover >ul{
+display: block;
+
+}
+.dropmenu ul li:hover{
+background-color: rgb(211, 238, 229);
+opacity: 0.9;
+list-style: none;
+
+}
+.dropmenu ul li ul li{
+position: relative;
+list-style: none;
+}
+.dropmenu ul li ul li ul{
+position: absolute;
+} 
+.imageClass{
+margin-left: 30%;
+margin-bottom: 5%;
+border-radius: 25px;
+}
+.btn{
+margin-left:80%;
+margin-top: 10%;
+}
+.search{
+margin-top:10%;
+} */
